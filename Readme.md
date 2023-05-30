@@ -18,7 +18,7 @@
 
 -  As listas encadeada são formadas por nodos. Os nodos são compostos por uma variavél  e um ponteiro  que aponta para o nodo da lista seguinte. <br><br>
 
-<img src="Imagens/list.jpg" align = center>
+<img src="Imagens/list.jpg" align = "center">
 
 
 <h1 align="center"> Criação das Funções</h1>
