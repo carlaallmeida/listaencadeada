@@ -20,7 +20,7 @@
 
 <img  align = "left" src="Imagens/list.jpg">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h1 align="left"> Criação das Funções</h1>
 
